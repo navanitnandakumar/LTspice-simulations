@@ -5,3 +5,4 @@
 <li>Low pass filter</li>
 <li>RC Differentiator</li>
 <li>RC Integrator</li>
+<li>Buffer</li>
