@@ -7,4 +7,4 @@
 <li>RC Integrator</li>
 <li>Buffer</li>
 <li>Invering amplifier</li>
-<li>Non-Inverting amplifier</li>
+<li>Non-inverting amplifier</li>
