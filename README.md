@@ -8,3 +8,5 @@
 <li>Buffer</li>
 <li>Invering amplifier</li>
 <li>Non-inverting amplifier</li>
+<li>Inverting summing amplifier</li>
+<li>Non-inverting summing amplifier</li>
